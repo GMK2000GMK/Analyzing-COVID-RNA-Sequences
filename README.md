@@ -66,7 +66,7 @@ The alignment scores between the variants are as follows:
 ## How to Run
 
 1. git clone https://github.com/your-username/covid-genome-analysis.gitcd covid-genome-analysis
-1. pip install -r requirements.txt
+1. pip install -r (packages)
 1. jupyter notebook covid.ipynb
 
 ## Dependencies

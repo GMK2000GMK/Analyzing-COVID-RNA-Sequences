@@ -1,4 +1,4 @@
-# COVID-19 Genome Analysis
+# Analyzing COVID RNA Sequences
 
 This repository contains a Jupyter Notebook for analyzing COVID-19 genome sequences. The analysis includes metadata processing, sequence alignment, and comparisons between different variants such as Delta and Omicron.
 
